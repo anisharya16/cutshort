@@ -1,2 +1,0 @@
-# cutshort
-Cutshort Assignment
